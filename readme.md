@@ -25,8 +25,8 @@ Because i like messing around.
 
 
 # Screenshots : 
-![Screenshot_.png](https://github.com/CollinseyNyaga/FPS_CHARACTER/blob/57e015ac4be149c6da161ee75567e44378f3c741/Screenshot_2022-04-11_13-53-35.png)
-![Screenshot_.png](https://github.com/CollinseyNyaga/FPS_CHARACTER/blob/57e015ac4be149c6da161ee75567e44378f3c741/Screenshot_2022-04-11_13-53-35.png)
+![Screenshot_.png](https://github.com/CollinseyNyaga/FsPrint/blob/master/Screenshots/Screenshot_2022-05-05_23-39-12.png)
+![Screenshot_.png](https://github.com/CollinseyNyaga/FsPrint/blob/master/Screenshots/Screenshot_2022-05-05_23-40-15.png)
 
 
 # Downloads : 
