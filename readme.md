@@ -22,7 +22,7 @@ Because i like messing around.
 
 <h3> How to install </h3>
 1. Download prebuilt binaries in this repo 
- 	<a href="# Downloads"> Here </a>
+ 	<a href="# DownloadsSection"> Here </a>
 2. For build instructions , view the BUILDING file in the root of the project .
 
 <br>
