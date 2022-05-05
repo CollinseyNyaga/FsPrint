@@ -1,10 +1,12 @@
 # FsPrint
 Filesystem Print.
 
+<br>
+
 # Why 
 Because i like messing around.
 
-
+<br>
 
 # How to setup 
 
@@ -20,13 +22,21 @@ Because i like messing around.
 1. Download prebuilt binaries in this repo Here
 2. For build instructions , view the BUILDING file in the root of the project .
 
+<br>
+
 <h3> How to run </h3>
 1. Read HowToSetup and HowToRun respectively in the prebuilt binary folder.
 
+<br>
 
 # Screenshots : 
 ![Screenshot_.png](https://github.com/CollinseyNyaga/FsPrint/blob/master/Screenshots/Screenshot_2022-05-05_23-39-12.png)
+<br>
 ![Screenshot_.png](https://github.com/CollinseyNyaga/FsPrint/blob/master/Screenshots/Screenshot_2022-05-05_23-40-15.png)
 
+<br>
+<br>
 
 # Downloads : 
+<br>
+https://github.com/CollinseyNyaga/FsPrint/blob/master/PrebuiltBins/FsPrintV1.0prebuiltLinux.zip
