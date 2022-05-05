@@ -20,7 +20,7 @@ Because i like messing around.
 1. Download prebuilt binaries in this repo Here
 2. For build instructions , view the BUILDING file in the root of the project .
 
-<h3> How to run <h3>
+<h3> How to run </h3>
 1. Read HowToSetup and HowToRun respectively in the prebuilt binary folder.
 
 
