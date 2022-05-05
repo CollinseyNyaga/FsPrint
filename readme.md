@@ -21,7 +21,8 @@ Because i like messing around.
 <br>
 
 <h3> How to install </h3>
-1. Download prebuilt binaries in this repo Here
+1. Download prebuilt binaries in this repo 
+ 	<a href="https://github.com/CollinseyNyaga/FsPrint/blob/master/PrebuiltBins/FsPrintV1.0prebuiltLinux.zip"> Here </a>
 2. For build instructions , view the BUILDING file in the root of the project .
 
 <br>
