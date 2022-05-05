@@ -39,4 +39,4 @@ Because i like messing around.
 
 # Downloads : 
 <br>
-https://github.com/CollinseyNyaga/FsPrint/blob/master/PrebuiltBins/FsPrintV1.0prebuiltLinux.zip
+<a href= https://github.com/CollinseyNyaga/FsPrint/blob/master/PrebuiltBins/FsPrintV1.0prebuiltLinux.zip> FsPrintV1.0prebuiltLinux.zip </a>
