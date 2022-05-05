@@ -1,0 +1,13 @@
+# Pre- requisites : 
+	1. Mono SDK
+	2. Shell environment like bash or sh
+
+# steps : 
+
+	1. make ./compileNRun.sh executable using chmod
+		<code>
+			chmod 740 ./compileNRun.sh
+		</code>
+
+	2. run ./compileNRun.sh to compile .
+		Feel free to change the flow of compilation in the shell script . 
