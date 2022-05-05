@@ -11,12 +11,14 @@ Because i like messing around.
 # How to setup 
 
 <h3> Pre-requisites </h3>
-1. Linux setup 
-2. Mono runtime -- you can find it by installing Mono SDK 
-3. Sunglasses because linux is so hooooott !!. Best line 2022;
-4. Nvidia Geforce RTX 3090 Memory: 24GB GDDR6X
-
-	😂😂😂 I am joke lol. You only pretty much need a toaster that can run a terminal
+<br>
+1. Linux setup <br>
+2. Mono runtime -- you can find it by installing Mono SDK <br>
+3. Sunglasses because linux is so hooooott !!. Best line 2022; <br>
+4. Nvidia Geforce RTX 3090 Memory: 24GB GDDR6X <br>
+<br>
+	😂😂😂 I am joke lol. You only pretty much need a toaster that can run a terminal <br>
+<br>
 
 <h3> How to install </h3>
 1. Download prebuilt binaries in this repo Here
