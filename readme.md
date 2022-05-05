@@ -21,8 +21,7 @@ Because i like messing around.
 <br>
 
 <h3> How to install </h3>
-1. Download prebuilt binaries in this repo 
- 	<a href="# DownloadsSection"> Here </a>
+1. Download prebuilt binaries in this repo Here in the downloads section . Scroll Down
 2. For build instructions , view the BUILDING file in the root of the project .
 
 <br>
